@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Пианино", "Пианино.csproj", "{007D97D6-C991-4ED9-8ABA-2D38EDE75782}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{007D97D6-C991-4ED9-8ABA-2D38EDE75782}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{007D97D6-C991-4ED9-8ABA-2D38EDE75782}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{007D97D6-C991-4ED9-8ABA-2D38EDE75782}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{007D97D6-C991-4ED9-8ABA-2D38EDE75782}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {143E4016-FA6F-43E9-BC1F-9C4AF3C1EE1D}
+	EndGlobalSection
+EndGlobal
